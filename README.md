@@ -1,6 +1,7 @@
 # bip39-bruteforce-fork
 Great job Written by @EddieOz 
 
+https://www.criptofacil.com/brasileiro-quebra-chave-privada-de-carteira-e-recebe-r-60-mil-em-bitcoin/?fbclid=IwAR1pl2KbI_wxA-r9oUhW40nPFqBpO6Yo8XlsLETK680aPl_Sxq_ykliakSQ
 https://medium.com/@eddieoz/generosidade-criptografada-6aabea16061d
 
 
